@@ -1,0 +1,17 @@
+body {
+    background-image: url(photo1.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 { 
+    color: #c26300;
+    margin: 0%;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%);
+     
+}
+
